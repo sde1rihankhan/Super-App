@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+.contant1{
+    color: rgb(12, 216, 12);
+    font-size: 30px;
+    padding: 0px 23px;
+}
+.contant2{
+    display: flex;
+    justify-content: space-between;
+}
+.contant3{
+    color: #fff;
+    font-size: 25px;
+    margin: 0px 0px 25px;
+}
+.contant4{
+    color: #bfbfbf;
+    font-size: 25px;
+}
+.contant5{
+    padding: 0px 0px 0px 50px ;
+}
+.contant7{
+display: flex;
+justify-content: space-evenly;
+}
+.contant8{
+    text-align: center;
+}
+.contant9{
+    text-align: center;
+}
+.contant10{
+    color: #bfbfbf;
+    font-size: 20px;
+    padding: 0px 0px 0px 50px ;
+}
+.contant11{
+    height: 30%;
+    width: 21%;
+}
+.contant12{
+    padding: 20px 55px 0px 0px;
+}
