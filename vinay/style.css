@@ -143,7 +143,7 @@ height: 2vh;
     justify-content: space-between;
  }
  .contant27{
-    background-image: url('../kk/1000_F_245101086_p7nRPWK8BaOE6SLSr0a63GOGjDLTwjCb.jpg');
+    background-image: url('../Profile/1000_F_245101086_p7nRPWK8BaOE6SLSr0a63GOGjDLTwjCb.jpg');
     height: 61.5vh;
     width: 45vh;
     border-top-left-radius: 15px;
@@ -208,13 +208,14 @@ height: 2vh;
     gap: 27px;
  }
  .contant42{
-    width: 110vh;
-    height: 26vh;
+    /* width: 110vh; */
+    height: 29vh;
     background-color: rgb(27, 27, 95);
     border-radius: 15px;
     display: flex;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
     margin: 28px 0px 0px;
+    gap: 10%;
  }
  * {
     padding: 0;
@@ -235,6 +236,7 @@ height: 2vh;
     justify-content: center;
     align-items: center;
     height: 27vh;
+    margin-left:60px ;
   }
   .inner-circle {
     position: absolute;
@@ -276,4 +278,15 @@ height: 2vh;
   }
   .contant45{
     height: 94.9%;
+  }
+  .button3{
+    background-color:rgb(226, 65, 65);
+    color: white;
+    padding: 15px 20vh;
+    border-radius: 20px;
+    margin: 13px 0px 0px 42px;
+  }
+  .contant50{
+    display: flex;
+    gap:25%;
   }

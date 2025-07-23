@@ -98,3 +98,23 @@ button{
 span{
     color: #2bd028;
 }
+#nameInput{
+    color: red;
+    font-size: 18px;
+    margin: 5px 10px 10px;
+}
+#userNameInput{
+    color: red;
+    font-size: 18px;
+    margin: 5px 10px 10px;
+}
+#emailInput{
+    color: red;
+    font-size: 18px;
+    margin: 5px 10px 10px;
+}
+#numberInput{
+    color: red;
+    font-size: 18px;
+    margin: 5px 10px 10px;
+}
